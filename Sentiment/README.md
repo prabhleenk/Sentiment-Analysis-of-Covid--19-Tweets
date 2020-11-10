@@ -50,13 +50,6 @@ jupyter notebook
 ## Versioning
 
 Version 1.0 - First Version
-
-## Authors
-
-* **Neha verma** 
-* **Anjali Deswal** 
-* **Prabhleen kaur** 
-* **Himanshi Sharma** 
  
 
 ## License
